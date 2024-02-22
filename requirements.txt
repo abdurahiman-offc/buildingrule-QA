@@ -1,0 +1,7 @@
+pypdf
+langchain-community
+python-dotenv
+google-generativeai
+streamlit
+ipykernel
+faiss-cpu
